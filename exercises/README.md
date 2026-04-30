@@ -8,12 +8,12 @@
 | #primitive_types 6       | §3.2, §4.3          |
 | #vecs 2                  | §8.1                |
 | #move_semantics 6        | §4.1-2              |
-| structs                | §5.1, §5.3          |
-| enums                  | §6, §18.3           |
-| strings                | §8.2                |
-| modules                | §7                  |
-| hashmaps               | §8.3                |
-| options                | §10.1               |
+| #structs 3               | §5.1, §5.3          |
+| #enums 3                 | §6, §18.3           |
+| #strings                 | §8.2                |
+| #modules                 | §7                  |
+| #hashmaps                | §8.3                |
+| #options                | §10.1               |
 | error_handling         | §9                  |
 | generics               | §10                 |
 | traits                 | §10.2               |
